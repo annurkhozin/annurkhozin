@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://annurkhozin.github.io/)
+[![Header](https://raw.githubusercontent.com/annurkhozin/annurkhozin/master/banner.jpg "Header")](https://annurkhozin.github.io/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/annurkhozin/annurkhozin/master/wave.gif" width="30px">
 
@@ -10,6 +10,7 @@ My name is Nur Khozin and I'm a software developer/DevOps engineer. I'm from Ind
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 
@@ -18,11 +19,19 @@ My name is Nur Khozin and I'm a software developer/DevOps engineer. I'm from Ind
 ![](https://img.shields.io/badge/PHP-Codeigniter-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PHP-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Nodejs-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Nodejs-Fatify.js-informational?style=flat&logo=fastify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Nodejs-Fastify-informational?style=flat&logo=fastify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Nodejs-Nest.js-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Nodejs-Adonis.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Nodejs-AdonisJs-informational?style=flat&logo=adonisjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Javascript-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Javascript-Nuxt.js-informational?style=flat&logo=nuxt.js&logoColor=white&color=2bbc8a)
+
+## 💾 DBMS
+
+![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DBMS-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DBMS-MS_SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DBMS-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DBMS-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
 
 ## 🔧 Tools
 
@@ -31,11 +40,6 @@ My name is Nur Khozin and I'm a software developer/DevOps engineer. I'm from Ind
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DBMS-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DBMS-MS_SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DBMS-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DBMS-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logo=composer&logoColor=white&color=2bbc8a)
@@ -51,14 +55,6 @@ My name is Nur Khozin and I'm a software developer/DevOps engineer. I'm from Ind
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=annurkhozin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nur Khozin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/annurkhozin/LSTM-RNN-lapor.go.id">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annurkhozin&repo=LSTM-RNN-lapor.go.id&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/annurkhozin/knn-network-attack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annurkhozin&repo=knn-network-attack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
@@ -70,7 +66,7 @@ My name is Nur Khozin and I'm a software developer/DevOps engineer. I'm from Ind
 
 [1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
 [2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://raw.githubusercontent.com/anuurkhozin/anuurkhozin/master/linkedin-3-16.png "LinkedIn icon without padding"
+[3.2]: https://raw.githubusercontent.com/annurkhozin/annurkhozin/master/linkedin-3-16.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
 
